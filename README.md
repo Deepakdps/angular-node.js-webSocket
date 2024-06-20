@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Steps to run the angular-node.js-webSocket App
 
-1.Navigate to root folder and execute `npm i`.
-2.Run `node index.js` for starting wesocket server in root folder
-3.Run `npm start` in seperate terminal for starting  Angular frontend in root folder
+1.Navigate to root folder and execute `npm i`. <br />
+2.Run `node index.js` for starting wesocket server in root folder. <br />
+3.Run `npm start` in seperate terminal for starting  Angular frontend in root folder. <br />
 4.U can see 
  
 
