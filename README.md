@@ -8,6 +8,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2.Run `node index.js` for starting wesocket server in root folder. <br />
 3.Run `npm start` in seperate terminal for starting  Angular frontend in root folder. <br />
 4.U can see the numbers getting randomly generated via node.js websocket server like below <br />
-[[https://github.com/Deepakdps/angular-node.js-webSocket/blob/main/ss_github_ws.PNG]]
+![Preview](https://github.com/Deepakdps/angular-node.js-webSocket/blob/main/ss_github_ws.PNG)
  
 
